@@ -22,47 +22,47 @@ public class Theme {
         return applicationBackground;
     }
 
-    public void setApplicationBackground(String applicationBackground) {
-        this.applicationBackground = applicationBackground;
+    public void setApplicationBackground(String applicationBackgroundParam) {
+        applicationBackground = applicationBackgroundParam;
     }
 
     public String getTextColor() {
         return textColor;
     }
 
-    public void setTextColor(String textColor) {
-        this.textColor = textColor;
+    public void setTextColor(String textColorParam) {
+        textColor = textColorParam;
     }
 
     public String getBtnEqualTextColor() {
         return btnEqualTextColor;
     }
 
-    public void setBtnEqualTextColor(String btnEqualTextColor) {
-        this.btnEqualTextColor = btnEqualTextColor;
+    public void setBtnEqualTextColor(String btnEqualTextColorParam) {
+        btnEqualTextColor = btnEqualTextColorParam;
     }
 
     public String getOperatorBackground() {
         return operatorBackground;
     }
 
-    public void setOperatorBackground(String operatorBackground) {
-        this.operatorBackground = operatorBackground;
+    public void setOperatorBackground(String operatorBackgroundParam) {
+        operatorBackground = operatorBackgroundParam;
     }
 
     public String getNumbersBackground() {
         return numbersBackground;
     }
 
-    public void setNumbersBackground(String numbersBackground) {
-        this.numbersBackground = numbersBackground;
+    public void setNumbersBackground(String numbersBackgroundParam) {
+        numbersBackground = numbersBackgroundParam;
     }
 
     public String getBtnEqualBackground() {
         return btnEqualBackground;
     }
 
-    public void setBtnEqualBackground(String btnEqualBackground) {
-        this.btnEqualBackground = btnEqualBackground;
+    public void setBtnEqualBackground(String btnEqualBackgroundParam) {
+        btnEqualBackground = btnEqualBackgroundParam;
     }
 }
